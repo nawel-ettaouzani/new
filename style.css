@@ -1,0 +1,87 @@
+/*Colors and fonts*/
+body {
+ background-color: rgb(230, 230, 230);
+ color: #E2703A;
+ font-family: 'Lora', serif;
+ font-size: 17px;
+}
+h1,h2,h3 {
+ 	font-family: 'Roboto', sans-serif;
+}
+h1 {
+ 	color:#3F2305;
+ 	font-size: 32px;
+ 	font-weight: 900
+}
+h2 {
+ 	color: #161616;
+ 	font-size: 24px;
+ 	font-weight: lighter;
+ 	font-weight: 400;
+}
+a {
+ 	text-decoration: none;
+ 	color:#C63D2F;
+}
+a: hover {
+ color:#E2703A;
+}
+
+div {   
+	background:white;
+	border: 2px solid black;
+	margin:10px;
+}
+
+/*Customs design with class*/
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+.card-white {
+	background-color:white;
+	padding:40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius:4px;
+	margin:20px 0px;
+    text-align: center;
+}
+
+.img-circle {
+	border-radius:50%;
+}
+
+.btn-blue {
+	background-color:#C63D2F;
+	color:white;
+	padding: 15px 20px;
+    border-radius:4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
